@@ -1,0 +1,66 @@
+######################################
+# LAMMPS INPUT SCRIPT
+# Find minimum energy fcc configuration
+# Mark Tschopp
+# This requires the variable latconst to be input via the command line
+# e.g., lmp_win_no-mpi -var latconst 4 < calc_fcc_ver1.in
+
+######################################
+# INITIALIZATION
+clear 
+units metal 
+dimension 3 
+boundary p p p 
+atom_style atomic 
+atom_modify map array
+
+######################################
+# ATOM DEFINITION
+# lattice fcc ${latconst}
+# region box block 0 1 0 1 0 1 units lattice
+# create_box 1 box
+
+# lattice fcc ${latconst} orient x 1 0 0 orient y 0 1 0 orient z 0 0 1  
+# create_atoms 1 box
+# replicate 1 1 1
+# read_data data.fcc.hea
+read_data data.fcc.fecrnicoal0.${alcontent}
+
+######################################
+# DEFINE INTERATOMIC POTENTIAL
+pair_style eam/alloy 
+pair_coeff * * ../FeNiCrCoAl-heaweight.eam.alloy Fe Ni Cr Co Al
+neighbor 2.0 bin 
+neigh_modify delay 10 check yes 
+ 
+######################################
+# DEFINE COMPUTES 
+compute eng all pe/atom 
+compute eatoms all reduce sum c_eng 
+
+# Use cfg for AtomEye
+dump 1 all cfg 10 dump-files/dump.al0${alcontent}_*.cfg mass type xs ys zs c_eng fx fy fz
+dump_modify 1 element Fe Ni Cr Co Al
+
+#####################################################
+# MINIMIZATION
+reset_timestep 0 
+fix 1 all box/relax iso 0.0 vmax 0.001
+thermo 10 
+thermo_style custom step pe lx ly lz press pxx pyy pzz c_eatoms 
+min_style cg 
+minimize 1e-25 1e-25 5000 10000 
+
+variable repeat internal 3
+variable natoms equal "count(all)" 
+variable teng equal "c_eatoms"
+variable length equal "lx"
+variable ecoh equal "v_teng/v_natoms"
+variable lc equal "v_length / v_repeat"
+
+print "Total energy (eV) = ${teng};"
+print "Number of atoms = ${natoms};"
+print "Lattice constant (Angstoms) = ${lc};"
+print "Cohesive energy (eV) = ${ecoh};"
+
+print "All done!"

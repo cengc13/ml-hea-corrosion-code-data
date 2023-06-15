@@ -1,0 +1,68 @@
+#!/usr/bin/env python3
+#SBATCH --time=24:00:00
+#SBATCH --nodes=1
+#SBATCH --ntasks=24
+#SBATCH --partition=short
+#SBATCH --job-name=hea-fcc-vs-bcc
+#SBATCH --mem=60GB
+import pickle
+import numpy as np
+import random
+random.seed(827)
+from random import shuffle, sample
+
+from ase.optimize import BFGS
+from ase.spacegroup import crystal
+from ase.io import read, Trajectory
+from ase.constraints import UnitCellFilter, StrainFilter
+from ase.lattice.compounds import L1_0
+from ase.visualize import view
+
+from mtp import MTP
+
+elements = ['Fe', 'Ni', 'Cr', 'Co', 'Al']
+mtp_file = '../../mtp-training/20.mtp/pot.mtp'
+calc = MTP(mtp_file, unique_elements=elements)
+
+a0, c_al, c_cr = [3.54987734e+00, 3.26672181e-03, 6.81928982e-05]
+al_pers = np.arange(0, 26, step=5)
+cr_pers = np.arange(10, 31, step=5)
+
+symbols = ['Ni', 'Co', 'Fe']
+for al_per in al_pers:
+    for cr_per in cr_pers:
+        ### B2 structures
+        a = a0 + c_al * al_per + c_cr * cr_per
+        a *= (2/3)**0.5
+        n_Al = int(al_per/100*(7**3)*2)
+        n_Cr = int(cr_per/100*(7**3)*2)
+        b2 = crystal('Al', [(0,0,0)], spacegroup=229,
+                      cellpar=[a, a, a, 90, 90, 90])
+        for atom in b2:
+            if atom.index % 2 == 0:
+                atom.symbol = 'Pt'
+        b2 = b2.repeat(7)
+        indices_pt = [atom.index for atom in b2 if atom.symbol == 'Pt']
+        indices_al = [atom.index for atom in b2 if atom.symbol == 'Al']
+        to_replace = sample(indices_al, len(indices_al)-n_Al)
+        indices = np.r_[to_replace, indices_pt]
+        # shuffle(indices)
+        for_cr = sample(list(indices), n_Cr)
+        for i in for_cr:
+            b2[i].symbol = 'Cr'
+        _indices = [_ for _ in indices if _ not in for_cr]
+        shuffle(_indices)
+        for i, ind in enumerate(_indices):
+            b2[ind].symbol = symbols[i % 3]
+        # view(b2)
+        b2.calc = calc
+        dyn = BFGS(b2)
+        dyn.run(0.05)
+        # ucf = StrainFilter(b2, mask=[1,1,1,0,0,0])
+        ucf = StrainFilter(b2, mask=[1,1,1,0,0,0])
+        dyn = BFGS(ucf)
+        dyn.run(0.05)
+        b2.set_constraint([])
+        dyn = BFGS(b2)
+        dyn.run(0.05)
+        b2.write(f'B2_al_{al_per}_cr_{cr_per}.traj')

@@ -1,0 +1,9 @@
+ - create_cfg.py: generate initial structure input for LAMMPS
+
+ - opt_cell_and_positions.ipynb: structural optimization in LAMMPS
+
+ - hea.in: example lammps inputfile
+ 
+ - read_dump_files.py: convert lammps relaxed output files to ASE trajectory files
+
+ - plot_lc_and_ecoh.py: plot the lattice constants and cohesives energies

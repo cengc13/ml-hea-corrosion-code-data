@@ -1,0 +1,5 @@
+Sample simple bulk structures with one to five elements.
+
+Trajectory files starting with "sqs_*" represents special quasi-random structures found by ATAT.
+
+Show_atoms contain functions to convert the ATAT SQS output to ASE readable files.

@@ -1,0 +1,16 @@
+- training.traj: first-principles training data in ASE format
+* training data can be decomposed to:
+    
+    - hea-bulk.traj: simple bulk structures plus eam sampled structures 
+    
+    - hea-surface.traj: simple surface structures plus eam sampled structures
+
+    - eos.traj: single elemnt bulk cells used to calculate the equation of state (EOS)
+
+    - fcc.traj: single-element fcc111 surface structures used to calculate the surface energy
+
+* It turns out that most eam sampled structures are not very close to optimized cell geometry, so it is crucial to include images such as eos.traj and fcc.traj to make MTP know the energetics of simplestsingle-element structures.   
+
+- convert2cfg.py: convert training data to MTP readable format
+
+- training.cfg: the cfg file converted from ASE trajectory, which follows the standard format needed for MTP.

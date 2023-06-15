@@ -1,0 +1,6 @@
+- nvt_hea.py: running 5000-step Langevin dynamics at a T=1700 K
+
+- select_image.py: select images using farthest point sampling implemented in AMP.
+
+*Note: AMP is an atomistic machine learning package developed by the Peterson group at Brown University.
+Link to AMP: https://bitbucket.org/andrewpeterson/amp/src/master/

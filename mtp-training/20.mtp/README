@@ -1,0 +1,7 @@
+- 20.mtp: untrained initial mtp with level_max=20
+
+- pot.mtp: trained mtp
+
+- training-validation.sh: bash script to submit a slurm job for mtp training. 
+
+Note: For level_max=20 job with around 1500 training structures, more than 36 cores are recommended for efficient training.

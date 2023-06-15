@@ -1,0 +1,8 @@
+- make-mc-and-submit.py: generate parallel multiple jobs on slurm
+
+- monte_carlo.py: implement MCMC algorithm
+
+- mc_run.py: define IO and MCMC simulation parameters, and initiate MCMC runs
+
+- random_select_50.py: select images from the mc*.db files
+

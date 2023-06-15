@@ -1,0 +1,1 @@
+Note: surface calculations require the dipole correction, modification of k-points although k-point grid will be found by the algorithm setting number of k points as floor(30/l) where l is the length of dimension. Also, point symmetry should be lifted to allow atomic position relaxations.

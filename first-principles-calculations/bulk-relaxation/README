@@ -1,0 +1,5 @@
+- create_dft_jobs.py: create high-throughput dft calculations at the same time.
+
+- assign_results.py: assign the calculations results and create a new trajectory with calculated energy and forces.
+
+Example: al_xper.traj is the trajectory file without energy and forces. Each DFT job has its own index, which corresponds to the index in the original trajectory. After DFT jobs are completed, we collecte converged jobs and save the energy and forces information into another file "hea_sp_bulk_al_xper.traj".

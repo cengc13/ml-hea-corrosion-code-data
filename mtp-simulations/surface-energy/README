@@ -1,0 +1,9 @@
+- make-mc-and-submit.py: generate parallel multiple jobs on slurm
+
+- monte_carlo.py: implement MCMC algorithm
+
+- mc_run.py: define IO and MCMC simulation parameters, and initiate MCMC runs
+
+- compute_surface_energy.py: calculate surface energies
+
+- count_ratios.py: calculate the degree of surface segregation
