@@ -5,19 +5,46 @@
    version="1.1"
    id="svg2"
    width="424.1055"
-   height="327.58917"
-   viewBox="0 0 424.1055 327.58917"
+   height="327.74698"
+   viewBox="0 0 424.1055 327.74698"
    sodipodi:docname="sp_or_mp.svg"
-   inkscape:version="1.2.2 (1:1.2.2+202212051550+b0a8486541)"
-   inkscape:export-filename="sp_or_mp.png"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:version="1.2.2 (1:1.2.2+202305151915+b0a8486541)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs6">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect777"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
     <clipPath
        clipPathUnits="userSpaceOnUse"
        id="clipPath20">
@@ -277,6 +304,13 @@
          d="M 64.49,59.96 H 326.94 V 242.08 H 64.49 Z"
          id="path490" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath502">
+      <path
+         d="M 64.49,59.96 H 326.94 V 242.08 H 64.49 Z"
+         id="path500" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="namedview4"
@@ -289,26 +323,26 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="2.2135417"
-     inkscape:cx="197.64706"
-     inkscape:cy="87.416471"
+     inkscape:cx="216.62118"
+     inkscape:cy="167.83059"
      inkscape:window-width="1848"
      inkscape:window-height="1016"
      inkscape:window-x="72"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g496">
+     inkscape:current-layer="g506">
     <inkscape:page
        x="0"
        y="0"
        id="page8"
        width="424.1055"
-       height="327.58917" />
+       height="327.74698" />
   </sodipodi:namedview>
   <g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="Page 1"
-     transform="matrix(1.3333333,0,0,-1.3333333,-23.507499,351.5775)">
+     transform="matrix(1.3333333,0,0,-1.3333333,-23.507499,351.73531)">
     <path
        d="M 64.49,59.96 H 326.94 V 242.08 H 64.49 Z"
        style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -956,103 +990,132 @@
     </g>
     <g
        id="g496">
+      <g
+         id="g498"
+         clip-path="url(#clipPath502)">
+        <path
+           d="M 183.00152,289 249.73983,-1"
+           style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:7.4, 3.2;stroke-dashoffset:0;stroke-opacity:1"
+           id="path504" />
+      </g>
+    </g>
+    <g
+       id="g506">
       <path
          d="M 64.49,59.96 V 242.08"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path498" />
+         id="path508" />
       <path
          d="M 326.94,59.96 V 242.08"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path500" />
+         id="path510" />
       <path
          d="M 64.49,59.96 H 326.94"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path502" />
+         id="path512" />
       <path
          d="M 64.49,242.08 H 326.94"
          style="fill:none;stroke:#000000;stroke-width:0.8;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path504" />
+         id="path514" />
       <g
-         id="g506"
+         id="g516"
          transform="translate(85.486,82.725)">
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text510"><tspan
+           id="text520"><tspan
              x="0 10.16 14.608 24.752001 34.911999 39.360001 49.200001 54.287998 64.447998 74.592003 84.400002 92.736"
              y="0"
              sodipodi:role="line"
-             id="tspan508">Single phase</tspan></text>
+             id="tspan518">Single phase</tspan></text>
       </g>
       <g
-         id="g512"
+         id="g522"
          transform="translate(169.47,223.868)">
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text516"><tspan
+           id="text526"><tspan
              x="0 13.808 23.952 28.4 34.672001 39.119999 49.279999 53.728001 63.568001 68.655998 78.816002 88.959999 98.767998 107.104"
              y="0"
              sodipodi:role="line"
-             id="tspan514">Multiple phase</tspan></text>
+             id="tspan524">Multiple phase</tspan></text>
       </g>
       <g
-         id="g518"
+         id="g528"
          transform="translate(74.988,251.186)">
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text522"><tspan
+           id="text532"><tspan
              x="0 7.43225 14.00825 23.81625 28.26425 38.408249 42.856251 53.000252 63.160252 68.248253 78.408249 88.216248 94.488251 104.29625"
              y="0"
              sodipodi:role="line"
-             id="tspan520">Training data:</tspan></text>
+             id="tspan530">Training data:</tspan></text>
       </g>
       <path
          d="m 181.119,257.40812 h 32"
          style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path524" />
+         id="path534" />
       <path
          d="m 193.119,253.40812 h 8 v 8 h -8 z"
          style="fill:#a52a2a;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path526" />
-      <g
-         id="g528"
-         transform="translate(209.419,251.80813)">
-        <text
-           xml:space="preserve"
-           transform="scale(1,-1)"
-           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           id="text532"><tspan
-             x="0 10.16"
-             y="0"
-             sodipodi:role="line"
-             id="tspan530">SP</tspan></text>
-      </g>
-      <path
-         d="m 277.7315,257.40812 h 32"
-         style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-         id="path534" />
-      <path
-         d="m 256.2315,253.40812 c 1.06081,0 2.07832,0.42147 2.82843,1.17158 0.7501,0.75011 1.17157,1.76761 1.17157,2.82842 0,1.06082 -0.42147,2.07832 -1.17157,2.82843 -0.75011,0.75011 -1.76762,1.17157 -2.82843,1.17157 -1.06081,0 -2.07832,-0.42146 -2.82843,-1.17157 -0.7501,-0.75011 -1.17157,-1.76761 -1.17157,-2.82843 0,-1.06081 0.42147,-2.07831 1.17157,-2.82842 0.75011,-0.75011 1.76762,-1.17158 2.82843,-1.17158 z"
-         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
          id="path536" />
       <g
          id="g538"
-         transform="translate(267.0315,251.80813)">
+         transform="translate(209.79684,251.92649)">
         <text
            xml:space="preserve"
            transform="scale(1,-1)"
            style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
            id="text542"><tspan
+             x="0 10.16"
+             y="0"
+             sodipodi:role="line"
+             id="tspan540">SP</tspan></text>
+      </g>
+      <path
+         d="m 277.7315,257.40812 h 32"
+         style="fill:none;stroke:#ffffff;stroke-width:1.5;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path544" />
+      <path
+         d="m 243.71818,253.87951 c 1.06081,0 2.07832,0.42147 2.82843,1.17158 0.7501,0.75011 1.17157,1.76761 1.17157,2.82842 0,1.06082 -0.42147,2.07832 -1.17157,2.82843 -0.75011,0.75011 -1.76762,1.17157 -2.82843,1.17157 -1.06081,0 -2.07832,-0.42146 -2.82843,-1.17157 -0.7501,-0.75011 -1.17157,-1.76761 -1.17157,-2.82843 0,-1.06081 0.42147,-2.07831 1.17157,-2.82842 0.75011,-0.75011 1.76762,-1.17158 2.82843,-1.17158 z"
+         style="fill:#008000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+         id="path546" />
+      <g
+         id="g548"
+         transform="translate(253.96705,251.90973)">
+        <text
+           xml:space="preserve"
+           transform="scale(1,-1)"
+           style="font-variant:normal;font-weight:normal;font-size:16px;font-family:'DejaVu Sans';-inkscape-font-specification:DejaVuSans;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="text552"><tspan
              x="0 13.808"
              y="0"
              sodipodi:role="line"
-             id="tspan540">MP</tspan></text>
+             id="tspan550">MP</tspan></text>
       </g>
+      <path
+         style="fill:#808080;stroke:#707070;stroke-width:0.75px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleStart)"
+         d="M 255.27194,94.277591 C 248.11961,90.83317 240.96697,87.388595 233.814,83.943866"
+         id="path775"
+         inkscape:path-effect="#path-effect777"
+         inkscape:original-d="M 255.27194,94.277591 C 248.12005,90.832264 240.9674,87.387694 233.814,83.943866" />
+      <text
+         xml:space="preserve"
+         style="font-size:12px;line-height:2.45;font-family:sans-serif;stroke-width:0.75"
+         x="234.62238"
+         y="-96.493286"
+         id="text1727"
+         transform="scale(1,-1)"><tspan
+           sodipodi:role="line"
+           id="tspan1725"
+           style="font-size:12px;fill:#666666;stroke-width:0.75"
+           x="234.62238"
+           y="-96.493286">Wu et al</tspan></text>
     </g>
   </g>
 </svg>
