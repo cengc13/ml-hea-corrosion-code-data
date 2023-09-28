@@ -1,0 +1,983 @@
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],1]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],3]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],8]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],12]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],13]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],15]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],11]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],16]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],7]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],5]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],23]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],9]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],21]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],22]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],17]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],18]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],20]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],10]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],19]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],25]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],26]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],27]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],2]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],14]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],4]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],24]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+srun: Job step aborted: Waiting up to 92 seconds for job step to finish.
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],0]) is on host: c0434
+  Process 2 ([[53900,0],1]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+At least one pair of MPI processes are unable to reach each other for
+MPI communications.  This means that no Open MPI device has indicated
+that it can be used to communicate between these processes.  This is
+an error; Open MPI requires that all MPI processes be able to reach
+each other.  This error can sometimes be the result of forgetting to
+specify the "self" BTL.
+
+  Process 1 ([[53900,0],6]) is on host: c0434
+  Process 2 ([[53900,0],0]) is on host: c0434
+  BTLs attempted: self
+
+Your MPI job is now going to abort; sorry.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+[c0434:24133] *** An error occurred in MPI_Init
+[c0434:24133] *** reported by process [3532390400,5]
+[c0434:24133] *** on a NULL communicator
+[c0434:24133] *** Unknown error
+[c0434:24133] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24133] ***    and potentially your MPI job)
+[c0434:24155] *** An error occurred in MPI_Init
+[c0434:24155] *** reported by process [3532390400,27]
+[c0434:24155] *** on a NULL communicator
+[c0434:24155] *** Unknown error
+[c0434:24155] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24155] ***    and potentially your MPI job)
+[c0434:24150] *** An error occurred in MPI_Init
+[c0434:24150] *** reported by process [3532390400,22]
+[c0434:24150] *** on a NULL communicator
+[c0434:24150] *** Unknown error
+[c0434:24150] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24150] ***    and potentially your MPI job)
+[c0434:24140] *** An error occurred in MPI_Init
+[c0434:24140] *** reported by process [3532390400,12]
+[c0434:24140] *** on a NULL communicator
+[c0434:24140] *** Unknown error
+[c0434:24140] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24140] ***    and potentially your MPI job)
+[c0434:24144] *** An error occurred in MPI_Init
+[c0434:24144] *** reported by process [3532390400,16]
+[c0434:24144] *** on a NULL communicator
+[c0434:24144] *** Unknown error
+[c0434:24144] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24144] ***    and potentially your MPI job)
+[c0434:24147] *** An error occurred in MPI_Init
+[c0434:24147] *** reported by process [3532390400,19]
+[c0434:24147] *** on a NULL communicator
+[c0434:24147] *** Unknown error
+[c0434:24147] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24147] ***    and potentially your MPI job)
+[c0434:24137] *** An error occurred in MPI_Init
+[c0434:24137] *** reported by process [3532390400,9]
+[c0434:24137] *** on a NULL communicator
+[c0434:24137] *** Unknown error
+[c0434:24137] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24137] ***    and potentially your MPI job)
+[c0434:24138] *** An error occurred in MPI_Init
+[c0434:24138] *** reported by process [3532390400,10]
+[c0434:24138] *** on a NULL communicator
+[c0434:24138] *** Unknown error
+[c0434:24138] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24138] ***    and potentially your MPI job)
+[c0434:24130] *** An error occurred in MPI_Init
+[c0434:24130] *** reported by process [3532390400,2]
+[c0434:24130] *** on a NULL communicator
+[c0434:24130] *** Unknown error
+[c0434:24130] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24130] ***    and potentially your MPI job)
+[c0434:24151] *** An error occurred in MPI_Init
+[c0434:24151] *** reported by process [3532390400,23]
+[c0434:24151] *** on a NULL communicator
+[c0434:24151] *** Unknown error
+[c0434:24151] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24151] ***    and potentially your MPI job)
+[c0434:24152] *** An error occurred in MPI_Init
+[c0434:24152] *** reported by process [3532390400,24]
+[c0434:24152] *** on a NULL communicator
+[c0434:24152] *** Unknown error
+[c0434:24152] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24152] ***    and potentially your MPI job)
+[c0434:24148] *** An error occurred in MPI_Init
+[c0434:24148] *** reported by process [3532390400,20]
+[c0434:24148] *** on a NULL communicator
+[c0434:24148] *** Unknown error
+[c0434:24148] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24148] ***    and potentially your MPI job)
+[c0434:24129] *** An error occurred in MPI_Init
+[c0434:24129] *** reported by process [3532390400,1]
+[c0434:24129] *** on a NULL communicator
+[c0434:24129] *** Unknown error
+[c0434:24129] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24129] ***    and potentially your MPI job)
+--------------------------------------------------------------------------
+MPI_INIT has failed because at least one MPI process is unreachable
+from another.  This *usually* means that an underlying communication
+plugin -- such as a BTL or an MTL -- has either not loaded or not
+allowed itself to be used.  Your MPI job will now abort.
+
+You may wish to try to narrow down the problem;
+
+ * Check the output of ompi_info to see which BTL/MTL plugins are
+   available.
+ * Run your application with MPI_THREAD_SINGLE.
+ * Set the MCA parameter btl_base_verbose to 100 (or mtl_base_verbose,
+   if using MTL-based communications) to see exactly which
+   communication plugins were considered and/or discarded.
+--------------------------------------------------------------------------
+[c0434:24128] *** An error occurred in MPI_Init
+[c0434:24128] *** reported by process [3532390400,0]
+[c0434:24128] *** on a NULL communicator
+[c0434:24128] *** Unknown error
+[c0434:24128] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24128] ***    and potentially your MPI job)
+[c0434:24131] *** An error occurred in MPI_Init
+[c0434:24131] *** reported by process [3532390400,3]
+[c0434:24131] *** on a NULL communicator
+[c0434:24131] *** Unknown error
+[c0434:24131] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24131] ***    and potentially your MPI job)
+[c0434:24132] *** An error occurred in MPI_Init
+[c0434:24132] *** reported by process [3532390400,4]
+[c0434:24132] *** on a NULL communicator
+[c0434:24132] *** Unknown error
+[c0434:24132] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24132] ***    and potentially your MPI job)
+[c0434:24142] *** An error occurred in MPI_Init
+[c0434:24142] *** reported by process [3532390400,14]
+[c0434:24142] *** on a NULL communicator
+[c0434:24142] *** Unknown error
+[c0434:24142] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24142] ***    and potentially your MPI job)
+[c0434:24154] *** An error occurred in MPI_Init
+[c0434:24154] *** reported by process [3532390400,26]
+[c0434:24154] *** on a NULL communicator
+[c0434:24154] *** Unknown error
+[c0434:24154] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24154] ***    and potentially your MPI job)
+[c0434:24135] *** An error occurred in MPI_Init
+[c0434:24135] *** reported by process [3532390400,7]
+[c0434:24135] *** on a NULL communicator
+[c0434:24135] *** Unknown error
+[c0434:24135] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24135] ***    and potentially your MPI job)
+[c0434:24134] *** An error occurred in MPI_Init
+[c0434:24134] *** reported by process [3532390400,6]
+[c0434:24134] *** on a NULL communicator
+[c0434:24134] *** Unknown error
+[c0434:24134] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24134] ***    and potentially your MPI job)
+[c0434:24136] *** An error occurred in MPI_Init
+[c0434:24136] *** reported by process [3532390400,8]
+[c0434:24136] *** on a NULL communicator
+[c0434:24136] *** Unknown error
+[c0434:24136] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24136] ***    and potentially your MPI job)
+[c0434:24141] *** An error occurred in MPI_Init
+[c0434:24141] *** reported by process [3532390400,13]
+[c0434:24141] *** on a NULL communicator
+[c0434:24141] *** Unknown error
+[c0434:24141] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24141] ***    and potentially your MPI job)
+[c0434:24143] *** An error occurred in MPI_Init
+[c0434:24143] *** reported by process [3532390400,15]
+[c0434:24143] *** on a NULL communicator
+[c0434:24143] *** Unknown error
+[c0434:24143] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24143] ***    and potentially your MPI job)
+[c0434:24145] *** An error occurred in MPI_Init
+[c0434:24145] *** reported by process [3532390400,17]
+[c0434:24145] *** on a NULL communicator
+[c0434:24145] *** Unknown error
+[c0434:24145] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24145] ***    and potentially your MPI job)
+[c0434:24153] *** An error occurred in MPI_Init
+[c0434:24153] *** reported by process [3532390400,25]
+[c0434:24153] *** on a NULL communicator
+[c0434:24153] *** Unknown error
+[c0434:24153] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24153] ***    and potentially your MPI job)
+[c0434:24139] *** An error occurred in MPI_Init
+[c0434:24139] *** reported by process [3532390400,11]
+[c0434:24139] *** on a NULL communicator
+[c0434:24139] *** Unknown error
+[c0434:24139] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24139] ***    and potentially your MPI job)
+[c0434:24146] *** An error occurred in MPI_Init
+[c0434:24146] *** reported by process [3532390400,18]
+[c0434:24146] *** on a NULL communicator
+[c0434:24146] *** Unknown error
+[c0434:24146] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24146] ***    and potentially your MPI job)
+[c0434:24149] *** An error occurred in MPI_Init
+[c0434:24149] *** reported by process [3532390400,21]
+[c0434:24149] *** on a NULL communicator
+[c0434:24149] *** Unknown error
+[c0434:24149] *** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+[c0434:24149] ***    and potentially your MPI job)
+slurmstepd: error: *** STEP 35312268.0 ON c0434 CANCELLED AT 2023-04-13T16:43:54 ***
+srun: error: c0434: tasks 0-27: Exited with exit code 1

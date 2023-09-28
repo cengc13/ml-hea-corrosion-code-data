@@ -1,0 +1,574 @@
+rank=00 L0: Traceback (most recent call last):
+rank=00 L1:   File "run.py", line 25, in <module>
+rank=00 L2:     atoms = read(traj)
+rank=00 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=00 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=00 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=00 L6:     fd = open_with_compression(filename, 'rb')
+rank=00 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=00 L8:     return open(filename, mode)
+rank=00 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 0): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=11 L0: Traceback (most recent call last):
+rank=11 L1:   File "run.py", line 25, in <module>
+rank=11 L2:     atoms = read(traj)
+rank=11 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=11 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=11 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=11 L6:     fd = open_with_compression(filename, 'rb')
+rank=11 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=11 L8:     return open(filename, mode)
+rank=11 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 11): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=13 L0: Traceback (most recent call last):
+rank=13 L1:   File "run.py", line 25, in <module>
+rank=13 L2:     atoms = read(traj)
+rank=13 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=13 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=13 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=13 L6:     fd = open_with_compression(filename, 'rb')
+rank=13 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=13 L8:     return open(filename, mode)
+rank=13 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 13): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=21 L0: Traceback (most recent call last):
+rank=21 L1:   File "run.py", line 25, in <module>
+rank=21 L2:     atoms = read(traj)
+rank=21 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=21 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=21 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=21 L6:     fd = open_with_compression(filename, 'rb')
+rank=21 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=21 L8:     return open(filename, mode)
+rank=21 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 21): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=23 L0: Traceback (most recent call last):
+rank=23 L1:   File "run.py", line 25, in <module>
+rank=23 L2:     atoms = read(traj)
+rank=23 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=23 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=23 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=23 L6:     fd = open_with_compression(filename, 'rb')
+rank=23 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=23 L8:     return open(filename, mode)
+rank=23 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 23): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=17 L0: Traceback (most recent call last):
+rank=17 L1:   File "run.py", line 25, in <module>
+rank=17 L2:     atoms = read(traj)
+rank=17 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=17 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=17 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=17 L6:     fd = open_with_compression(filename, 'rb')
+rank=17 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=17 L8:     return open(filename, mode)
+rank=17 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 17): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=27 L0: Traceback (most recent call last):
+rank=27 L1:   File "run.py", line 25, in <module>
+rank=27 L2:     atoms = read(traj)
+rank=27 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=27 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=27 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=27 L6:     fd = open_with_compression(filename, 'rb')
+rank=27 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=27 L8:     return open(filename, mode)
+rank=27 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 27): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=15 L0: Traceback (most recent call last):
+rank=15 L1:   File "run.py", line 25, in <module>
+rank=15 L2:     atoms = read(traj)
+rank=15 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=15 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=15 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=15 L6:     fd = open_with_compression(filename, 'rb')
+rank=15 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=15 L8:     return open(filename, mode)
+rank=15 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 15): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=29 L0: Traceback (most recent call last):
+rank=29 L1:   File "run.py", line 25, in <module>
+rank=29 L2:     atoms = read(traj)
+rank=29 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=29 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=29 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=29 L6:     fd = open_with_compression(filename, 'rb')
+rank=29 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=29 L8:     return open(filename, mode)
+rank=29 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+rank=05 L0: Traceback (most recent call last):
+rank=05 L1:   File "run.py", line 25, in <module>
+rank=05 L2:     atoms = read(traj)
+rank=05 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=05 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=05 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=05 L6:     fd = open_with_compression(filename, 'rb')
+rank=05 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=05 L8:     return open(filename, mode)
+rank=05 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 29): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+GPAW CLEANUP (node 5): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=09 L0: Traceback (most recent call last):
+rank=09 L1:   File "run.py", line 25, in <module>
+rank=09 L2:     atoms = read(traj)
+rank=09 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=09 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=09 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=09 L6:     fd = open_with_compression(filename, 'rb')
+rank=09 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=09 L8:     return open(filename, mode)
+rank=09 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 9): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=19 L0: Traceback (most recent call last):
+rank=19 L1:   File "run.py", line 25, in <module>
+rank=19 L2:     atoms = read(traj)
+rank=19 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=19 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=19 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=19 L6:     fd = open_with_compression(filename, 'rb')
+rank=19 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=19 L8:     return open(filename, mode)
+rank=19 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 19): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=07 L0: Traceback (most recent call last):
+rank=07 L1:   File "run.py", line 25, in <module>
+rank=07 L2:     atoms = read(traj)
+rank=07 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=07 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=07 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=07 L6:     fd = open_with_compression(filename, 'rb')
+rank=07 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=07 L8:     return open(filename, mode)
+rank=07 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 7): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=25 L0: Traceback (most recent call last):
+rank=25 L1:   File "run.py", line 25, in <module>
+rank=25 L2:     atoms = read(traj)
+rank=25 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=25 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=25 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=25 L6:     fd = open_with_compression(filename, 'rb')
+rank=25 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=25 L8:     return open(filename, mode)
+rank=25 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 25): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=03 L0: Traceback (most recent call last):
+rank=03 L1:   File "run.py", line 25, in <module>
+rank=03 L2:     atoms = read(traj)
+rank=03 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=03 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=03 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=03 L6:     fd = open_with_compression(filename, 'rb')
+rank=03 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=03 L8:     return open(filename, mode)
+rank=03 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 3): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=01 L0: Traceback (most recent call last):
+rank=01 L1:   File "run.py", line 25, in <module>
+rank=01 L2:     atoms = read(traj)
+rank=01 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=01 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=01 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=01 L6:     fd = open_with_compression(filename, 'rb')
+rank=01 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=01 L8:     return open(filename, mode)
+rank=01 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 1): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=10 L0: Traceback (most recent call last):
+rank=10 L1:   File "run.py", line 25, in <module>
+rank=10 L2:     atoms = read(traj)
+rank=10 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=10 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=10 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=10 L6:     fd = open_with_compression(filename, 'rb')
+rank=10 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=10 L8:     return open(filename, mode)
+rank=10 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 10): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=14 L0: Traceback (most recent call last):
+rank=14 L1:   File "run.py", line 25, in <module>
+rank=14 L2:     atoms = read(traj)
+rank=14 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=14 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=14 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=14 L6:     fd = open_with_compression(filename, 'rb')
+rank=14 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=14 L8:     return open(filename, mode)
+rank=14 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 14): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=12 L0: Traceback (most recent call last):
+rank=12 L1:   File "run.py", line 25, in <module>
+rank=12 L2:     atoms = read(traj)
+rank=12 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=12 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=12 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=12 L6:     fd = open_with_compression(filename, 'rb')
+rank=12 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=12 L8:     return open(filename, mode)
+rank=12 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 12): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=20 L0: Traceback (most recent call last):
+rank=20 L1:   File "run.py", line 25, in <module>
+rank=20 L2:     atoms = read(traj)
+rank=20 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=20 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=20 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=20 L6:     fd = open_with_compression(filename, 'rb')
+rank=20 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=20 L8:     return open(filename, mode)
+rank=20 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 20): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=24 L0: Traceback (most recent call last):
+rank=24 L1:   File "run.py", line 25, in <module>
+rank=24 L2:     atoms = read(traj)
+rank=24 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=24 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=24 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=24 L6:     fd = open_with_compression(filename, 'rb')
+rank=24 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=24 L8:     return open(filename, mode)
+rank=24 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 24): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=18 L0: Traceback (most recent call last):
+rank=18 L1:   File "run.py", line 25, in <module>
+rank=18 L2:     atoms = read(traj)
+rank=18 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=18 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=18 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=18 L6:     fd = open_with_compression(filename, 'rb')
+rank=18 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=18 L8:     return open(filename, mode)
+rank=18 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 18): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=04 L0: Traceback (most recent call last):
+rank=04 L1:   File "run.py", line 25, in <module>
+rank=04 L2:     atoms = read(traj)
+rank=04 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=04 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=04 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=04 L6:     fd = open_with_compression(filename, 'rb')
+rank=04 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=04 L8:     return open(filename, mode)
+rank=04 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 4): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=22 L0: Traceback (most recent call last):
+rank=22 L1:   File "run.py", line 25, in <module>
+rank=22 L2:     atoms = read(traj)
+rank=22 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=22 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=22 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=22 L6:     fd = open_with_compression(filename, 'rb')
+rank=22 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=22 L8:     return open(filename, mode)
+rank=22 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 22): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=16 L0: Traceback (most recent call last):
+rank=16 L1:   File "run.py", line 25, in <module>
+rank=16 L2:     atoms = read(traj)
+rank=16 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=16 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=16 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=16 L6:     fd = open_with_compression(filename, 'rb')
+rank=16 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=16 L8:     return open(filename, mode)
+rank=16 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 16): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=06 L0: Traceback (most recent call last):
+rank=06 L1:   File "run.py", line 25, in <module>
+rank=06 L2:     atoms = read(traj)
+rank=06 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=06 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=06 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=06 L6:     fd = open_with_compression(filename, 'rb')
+rank=06 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=06 L8:     return open(filename, mode)
+rank=06 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 6): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=26 L0: Traceback (most recent call last):
+rank=26 L1:   File "run.py", line 25, in <module>
+rank=26 L2:     atoms = read(traj)
+rank=26 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=26 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=26 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=26 L6:     fd = open_with_compression(filename, 'rb')
+rank=26 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=26 L8:     return open(filename, mode)
+rank=26 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 26): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=08 L0: Traceback (most recent call last):
+rank=08 L1:   File "run.py", line 25, in <module>
+rank=08 L2:     atoms = read(traj)
+rank=08 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=08 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=08 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=08 L6:     fd = open_with_compression(filename, 'rb')
+rank=08 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=08 L8:     return open(filename, mode)
+rank=08 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 8): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=28 L0: Traceback (most recent call last):
+rank=28 L1:   File "run.py", line 25, in <module>
+rank=28 L2:     atoms = read(traj)
+rank=28 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=28 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=28 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=28 L6:     fd = open_with_compression(filename, 'rb')
+rank=28 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=28 L8:     return open(filename, mode)
+rank=28 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 28): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+rank=02 L0: Traceback (most recent call last):
+rank=02 L1:   File "run.py", line 25, in <module>
+rank=02 L2:     atoms = read(traj)
+rank=02 L3:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 729, in read
+rank=02 L4:     format = format or filetype(filename, read=isinstance(filename, str))
+rank=02 L5:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 920, in filetype
+rank=02 L6:     fd = open_with_compression(filename, 'rb')
+rank=02 L7:   File "/home/c.zeng/.local/lib/python3.8/site-packages/ase-3.22.1-py3.8.egg/ase/io/formats.py", line 551, in open_with_compression
+rank=02 L8:     return open(filename, mode)
+rank=02 L9: FileNotFoundError: [Errno 2] No such file or directory: '../dft-images/154.traj'
+GPAW CLEANUP (node 2): <class 'FileNotFoundError'> occurred.  Calling MPI_Abort!
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 0 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 5 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 22 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 1 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 11 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 13 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 21 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 23 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 27 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 17 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 29 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 15 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 9 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 19 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 7 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 10 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 25 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 24 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 6 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 26 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 8 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 16 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 3 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 2 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 14 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 20 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 12 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 18 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 4 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+MPI_ABORT was invoked on rank 28 in communicator MPI_COMM_WORLD
+with errorcode 42.
+
+NOTE: invoking MPI_ABORT causes Open MPI to kill all MPI processes.
+You may or may not see output from other processes, depending on
+exactly when Open MPI kills them.
+--------------------------------------------------------------------------
+srun: error: d0053: task 0: Exited with exit code 42
+slurmstepd: error: *** STEP 35453831.0 ON d0053 CANCELLED AT 2023-04-18T10:56:33 ***
+srun: Job step aborted: Waiting up to 92 seconds for job step to finish.
+srun: error: d0053: tasks 1-29: Exited with exit code 42
