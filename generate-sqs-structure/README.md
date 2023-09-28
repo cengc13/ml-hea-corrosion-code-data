@@ -1,5 +1,5 @@
 - Command to find the special quasi-random structure is as simple as `mcsqs -n=[number of elements]`. 
-Details of other arguments for the command can be found (https://www.sciencedirect.com/science/article/pii/S0364591613000540)[in this work]  
+Details of other arguments for the command can be found [in this work](https://www.sciencedirect.com/science/article/pii/S0364591613000540)
 
 - The initial lattice file for each sqs structure incluidng three to five elements is given by `rndstr.in`.
 

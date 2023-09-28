@@ -10,3 +10,5 @@ Scripts and notebooks for "machine learning accelerated discovery of corrosion-r
 - "mtp-training" includes the training data and a script to train MTP for AlCrFeNiCo.
 
 - "mtp-simulations" includes scripts that use trained MTP to perform simulations targeting the three corrosion metrics and supporting results shown in SI.
+
+- "generate-sqs-structure" includes the input and output files for generating special quasi-random structures using [atat](https://www.sciencedirect.com/science/article/pii/S0364591613000540).
