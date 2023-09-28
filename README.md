@@ -1,5 +1,5 @@
-# ml-hea-corrosion-code
-Scripts and notebooks for "machine learning accelerated discovery of corrosion-resistant high-entropy alloys".
+# ml-hea-corrosion-code-data
+Data, and code for "machine learning accelerated discovery of corrosion-resistant high-entropy alloys".
 
 - "single-phase-HEA" includes files for the machine learning models used to predict single-phase formability of high-entropy alloys.
 
