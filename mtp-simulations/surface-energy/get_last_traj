@@ -1,0 +1,10 @@
+#! /bin/bash
+herepath=`pwd`
+for j in `ls -d */|cut -d / -f 1`; do
+  cd $j/
+  IFS=- read -r var1 var2 <<< $j
+  echo $var1 $var2 
+  ase gui mc_al_${var1}_cr_${var2}.db@-1 -o last.traj 
+  cd $herepath
+  done
+

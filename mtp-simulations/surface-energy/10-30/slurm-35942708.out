@@ -1,0 +1,19 @@
+[c0424:19099] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_segment.c at line 207
+[c0424:19099] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 693
+[c0424:19099] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 1850
+[c0424:19099] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 2808
+[c0424:19099] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/common/dstore/dstore_base.c at line 2857
+[c0424:19099] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/server/pmix_server.c at line 3408
+[c0424:19098] PMIX ERROR: OUT-OF-RESOURCE in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/client/pmix_client.c at line 231
+[c0424:19098] OPAL ERROR: Error in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix3x_client.c at line 112
+*** An error occurred in MPI_Init
+*** on a NULL communicator
+*** MPI_ERRORS_ARE_FATAL (processes in this communicator will now abort,
+***    and potentially your MPI job)
+[c0424:19098] Local abort before MPI_INIT completed completed successfully, but am not able to aggregate error messages, and not able to guarantee that all other processes were killed!
+[c0424:19099] PMIX ERROR: ERROR in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/gds/ds21/gds_ds21_lock_pthread.c at line 99
+[c0424:19099] PMIX ERROR: ERROR in file /shared/centos7/openmpi/src/openmpi-4.0.3/opal/mca/pmix/pmix3x/pmix/src/mca/gds/ds21/gds_ds21_lock_pthread.c at line 99
+/home/c.zeng/usr/installs/testamp/testamp/__init__.py:31: UserWarning: Did not find fortran modules.
+  warnings.warn('Did not find fortran modules.')
+10-30
+0.0967125
