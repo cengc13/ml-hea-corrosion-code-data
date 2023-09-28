@@ -5,4 +5,4 @@ Details of other arguments for the command can be found [in this work](https://w
 
 - The numbers of atoms for ternary, quaternary and quinary structures are 27, 24 and 25, respetively.
 
-- Python scripts to convert the generated sqs structure in atat format to ase compatabile format are adapted from the github repo:https://github.com/jkitchin/python-atat.
+- Python function to convert the generated sqs structure in atat format to ase compatabile format is given in the `show_atom.py`, adapted from the github repo:https://github.com/jkitchin/python-atat.
