@@ -1,0 +1,15 @@
+Validation of MTP predictions by finding which single-phase crystals are most stable for Alx(CrFeNiCo)_{100-x}, B2 versus L12 versus FCC_A1.
+
+- fcc_A1.py: generate fcc_A1 structures and optimize its both cell geometry and atomic positions. 
+
+- b2.py: generate b2 structures and optimize them
+
+- l12.py: generate l12 structures and optimize them
+
+- A1_vs_l12_vs_b2.py: compare the cohesive energies of B2 versus L12 versus fcc_A1 for each Al compositoin of Alx(CrFeNiCo)_{100-x}  
+
+- The trajectory files for each type of bulk structures is named in the formate [crystal structure]_al_[Al composition].traj. 
+
+Note: When the cell and atomic positions were simultaneously optimized, ASE gave some errors. Instead, those two are optimized sequentially.
+We first perform optimization of atomic positions, then cell geometry and lastly another round of position adjustment.
+
