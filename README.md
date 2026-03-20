@@ -1,3 +1,5 @@
+This paper is published at [Computational Materials Science](https://www.sciencedirect.com/science/article/pii/S0927025624001460).
+
 # ml-hea-corrosion-code-data
 Data, and code for "machine learning accelerated discovery of corrosion-resistant high-entropy alloys".
 
