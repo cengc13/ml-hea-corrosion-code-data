@@ -1,5 +1,7 @@
 This paper is published at [Computational Materials Science](https://www.sciencedirect.com/science/article/pii/S0927025624001460).
 
+The ASE interface for Moment Tensor Potential can be found here: https://github.com/cengc13/ASEMTP.
+
 # ml-hea-corrosion-code-data
 Data, and code for "machine learning accelerated discovery of corrosion-resistant high-entropy alloys".
 
